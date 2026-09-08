@@ -232,3 +232,6 @@ This repository serves as the official landing page for LiteLoader. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of LiteLoader today!**
+
+---
+**Last updated:** 2026-09-08 14:17:17 UTC

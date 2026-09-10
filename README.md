@@ -234,4 +234,4 @@ This repository serves as the official landing page for LiteLoader. The software
 **Get the most recent version of LiteLoader today!**
 
 ---
-**Last updated:** 2026-09-10 14:11:21 UTC
+**Last updated:** 2026-09-10 18:14:23 UTC
